@@ -1,7 +1,7 @@
 ## What is cho-dev?
 
-cho-dev is super development in Japanese (超dev).
+cho-dev stands for "super development" in Japanese (超dev).
 
-It means NOT a great code, great product...
+It does not mean a great code, great product...
 
 Just a repository of my un-cleanup spaghetti code.
