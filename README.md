@@ -4,4 +4,4 @@ cho-dev is super development in Japanese (超dev).
 
 It means NOT a great code, great product...
 
-Just repository of my un-cleanup spaghetti code.
+Just a repository of my un-cleanup spaghetti code.
